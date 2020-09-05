@@ -106,7 +106,9 @@ This chapter contains deep learning theory.
 
 **Note**: All Jupyter Notebook Sample Data is available in **[Data](https://github.com/Apress/hands-on-time-series-analylsis-python/tree/master/Data)** Folder
 
----## Releases
+---
+
+## Releases
 
 Release v1.0 corresponds to the code in the published book, without corrections or updates.
 
