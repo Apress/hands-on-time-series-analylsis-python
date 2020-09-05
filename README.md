@@ -100,7 +100,7 @@ This chapter contains deep learning theory.
 | 3. fbprophet adding country holiday           | [Github](https://github.com/Apress/hands-on-time-series-analylsis-python/blob/master/Chapter%208/3.%20fbprophet_adding_country_holiday.ipynb) | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Apress/hands-on-time-series-analylsis-python/blob/master/Chapter%208/3.%20fbprophet_adding_country_holiday.ipynb) |
 | 4. fbprophet with exogenous or add_regressors | [Github](https://github.com/Apress/hands-on-time-series-analylsis-python/blob/master/Chapter%208/4.%20fbprophet_with_exogenous_or_add_regressors.ipynb) | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Apress/hands-on-time-series-analylsis-python/blob/master/Chapter%208/4.%20fbprophet_with_exogenous_or_add_regressors.ipynb) |
 
-**Note**: All Jupyter Notebook Sample Data is available in **[Data]2(https://github.com/Apress/hands-on-time-series-analylsis-python/tree/master/Data)** Folder
+**Note**: All Jupyter Notebook Sample Data is available in **[Data](https://github.com/Apress/hands-on-time-series-analylsis-python/tree/master/Data)** Folder
 
 ---
 
