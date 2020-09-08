@@ -7,6 +7,12 @@ This repository accompanies [*Hands-on Time Series Analysis with Python*](https:
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
+#### Installation
+
+```
+ pip install -r requirements.txt
+```
+
 ####  Chapter-1: Time-Series Characteristics
 
 | Topic                                  | Notebook                                                     | Colab                                                        |
